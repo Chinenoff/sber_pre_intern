@@ -1,0 +1,9 @@
+<archetype>
+  <id>sber_pre_intern</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
